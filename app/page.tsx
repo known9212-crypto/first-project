@@ -100,7 +100,7 @@ export default function Home() {
             Seeking a challenging position in a reputable company where I can
             learn new skills, expand my knowledge, and leverage my learnings. I
             aim to make the best of my potential and contribute to the
-            organization's growth while supporting my family.
+            organization&apos;s growth while supporting my family.
           </p>
         </section>
 
