@@ -43,7 +43,7 @@ export default function Home() {
             college student seeking a challenging position in a reputable
             company where I can learn new skills, expand my knowledge, and
             leverage my learnings. I am eager to contribute my best potential to
-            an organization's growth and to work to help my family.
+            an organization&apos;s growth and to work to help my family.
           </p>
         </section>
 
